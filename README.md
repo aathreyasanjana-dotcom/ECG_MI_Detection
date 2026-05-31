@@ -74,10 +74,3 @@ Future Work
 	•	Compare performance across different ECG leads
 	•	Explore lightweight deployment options
 
-Author
-
-Sanjana Aathreya
-
-B.E. Electronics and Communication Engineering
-
-RV College of Engineering
