@@ -1,6 +1,7 @@
 tfenv/
 __pycache__/
 
+*.npy
 *.keras
 *.h5
 
