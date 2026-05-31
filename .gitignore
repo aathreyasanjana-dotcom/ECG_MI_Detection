@@ -1,0 +1,9 @@
+tfenv/
+__pycache__/
+
+*.keras
+*.h5
+
+mit-bih-arrhythmia-database-1.0.0/
+
+.DS_Store
